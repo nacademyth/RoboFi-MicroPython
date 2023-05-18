@@ -1,0 +1,3 @@
+from RoboFi import *
+
+demo()
